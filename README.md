@@ -10,7 +10,9 @@ Personal implementations while studying [Dive into Deep Learning (d2l.ai)](https
 │   ├── linear_regression_scratch.ipynb
 │   └── linear_regression_application.ipynb
 └── TBC/
-    └── README.md
+│   ├── XX_model_scratch.ipynb
+│   └── XX_model_application.ipynb
+└── README.md
 ```
 
 ## Base Classes
