@@ -5,11 +5,16 @@ Personal implementations while studying [Dive into Deep Learning (d2l.ai)](https
 ## Structure
 
 ├── sarahdl_baseclass.py    # Base classes (Model, DataLoader, Trainer)
+
 ├── linear_regression_scratch/
-│   └── linear_regression_scratch.ipynb
-│   └── linear_regression_appication.ipynb
+
+│    └── linear_regression_scratch.ipynb
+
+│    └── linear_regression_appication.ipynb
+
 ├── TBC
-│   └── ...
+
+│    └── ...
 └── README.md
 
 ## Base Classes
