@@ -16,7 +16,7 @@ class Model(nn.Module):
         raise NotImplementedError
     
     def training_step(self,batch):
-        x,y = batch[:-1],batch[-1]
+        x,y = batch[0],batch[1]
         y_hat = self(x)
         l = self.loss(y_hat,y)
         return l
