@@ -6,7 +6,7 @@ Personal implementations while studying [Dive into Deep Learning (d2l.ai)](https
 
 ```
 ├── sarahdl_baseclass.py    # Base classes (Model, DataLoader, Trainer)
-├── linear_regression_scratch/
+├── linear_regression
 │   ├── linear_regression_scratch.ipynb
 │   └── linear_regression_application.ipynb
 └── TBC/
