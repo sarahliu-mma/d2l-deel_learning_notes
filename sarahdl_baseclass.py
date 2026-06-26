@@ -38,8 +38,8 @@ class Trainer:
         self.max_epoch = max_epoch
 
     def prepare_data(self,data):
-        self.data = data.get_dataloader()
-        self.num_batches = len(self.data)
+        self.dataloader = data.get_dataloader()
+        self.num_batches = len(self.dataloader)
 
     def prepare_model(self,model):
         self.model = model
