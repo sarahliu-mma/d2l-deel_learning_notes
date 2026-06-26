@@ -1,5 +1,4 @@
 # Base classes for linear regression model
-# Inherite the nn.Module from torch
 
 import torch
 from torch import nn
